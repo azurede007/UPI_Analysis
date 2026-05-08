@@ -1,0 +1,101 @@
+merchant_id,merchant_name,merchant_category,city,state
+M001,Merchant_1,ECommerce,Bangalore,Karnataka
+M002,Merchant_2,Travel,Delhi,Delhi
+M003,Merchant_3,Grocery,Mumbai,Maharashtra
+M004,Merchant_4,Food Delivery,Bangalore,Karnataka
+M005,Merchant_5,ECommerce,Kolkata,West Bengal
+M006,Merchant_6,Food Delivery,Chennai,Tamil Nadu
+M007,Merchant_7,Travel,Mumbai,Maharashtra
+M008,Merchant_8,Travel,Chennai,Tamil Nadu
+M009,Merchant_9,Travel,Kolkata,West Bengal
+M010,Merchant_10,Entertainment,Ahmedabad,Gujarat
+M011,Merchant_11,Grocery,Chennai,Tamil Nadu
+M012,Merchant_12,Electronics,Kolkata,West Bengal
+M013,Merchant_13,Grocery,Delhi,Delhi
+M014,Merchant_14,Electronics,Mumbai,Maharashtra
+M015,Merchant_15,Food Delivery,Bangalore,Karnataka
+M016,Merchant_16,Food Delivery,Kolkata,West Bengal
+M017,Merchant_17,Electronics,Pune,Maharashtra
+M018,Merchant_18,ECommerce,Delhi,Delhi
+M019,Merchant_19,Food Delivery,Ahmedabad,Gujarat
+M020,Merchant_20,Food Delivery,Kolkata,West Bengal
+M021,Merchant_21,Electronics,Delhi,Delhi
+M022,Merchant_22,Food Delivery,Mumbai,Maharashtra
+M023,Merchant_23,Travel,Chennai,Tamil Nadu
+M024,Merchant_24,Food Delivery,Delhi,Delhi
+M025,Merchant_25,Food Delivery,Mumbai,Maharashtra
+M026,Merchant_26,Entertainment,Kolkata,West Bengal
+M027,Merchant_27,Electronics,Ahmedabad,Gujarat
+M028,Merchant_28,Electronics,Hyderabad,Telangana
+M029,Merchant_29,Travel,Pune,Maharashtra
+M030,Merchant_30,Food Delivery,Delhi,Delhi
+M031,Merchant_31,Travel,Hyderabad,Telangana
+M032,Merchant_32,Education,Hyderabad,Telangana
+M033,Merchant_33,Entertainment,Kolkata,West Bengal
+M034,Merchant_34,Electronics,Mumbai,Maharashtra
+M035,Merchant_35,Travel,Chennai,Tamil Nadu
+M036,Merchant_36,Electronics,Chennai,Tamil Nadu
+M037,Merchant_37,Entertainment,Kolkata,West Bengal
+M038,Merchant_38,Travel,Bangalore,Karnataka
+M039,Merchant_39,Travel,Pune,Maharashtra
+M040,Merchant_40,Healthcare,Ahmedabad,Gujarat
+M041,Merchant_41,Grocery,Ahmedabad,Gujarat
+M042,Merchant_42,Grocery,Delhi,Delhi
+M043,Merchant_43,Entertainment,Mumbai,Maharashtra
+M044,Merchant_44,Healthcare,Kolkata,West Bengal
+M045,Merchant_45,Travel,Pune,Maharashtra
+M046,Merchant_46,Education,Hyderabad,Telangana
+M047,Merchant_47,ECommerce,Bangalore,Karnataka
+M048,Merchant_48,Grocery,Bangalore,Karnataka
+M049,Merchant_49,Healthcare,Hyderabad,Telangana
+M050,Merchant_50,Healthcare,Bangalore,Karnataka
+M051,Merchant_51,Education,Kolkata,West Bengal
+M052,Merchant_52,ECommerce,Delhi,Delhi
+M053,Merchant_53,Entertainment,Bangalore,Karnataka
+M054,Merchant_54,Food Delivery,Pune,Maharashtra
+M055,Merchant_55,Healthcare,Delhi,Delhi
+M056,Merchant_56,Education,Hyderabad,Telangana
+M057,Merchant_57,Entertainment,Chennai,Tamil Nadu
+M058,Merchant_58,Food Delivery,Hyderabad,Telangana
+M059,Merchant_59,Travel,Delhi,Delhi
+M060,Merchant_60,Electronics,Hyderabad,Telangana
+M061,Merchant_61,ECommerce,Hyderabad,Telangana
+M062,Merchant_62,Education,Pune,Maharashtra
+M063,Merchant_63,Food Delivery,Chennai,Tamil Nadu
+M064,Merchant_64,Entertainment,Pune,Maharashtra
+M065,Merchant_65,ECommerce,Mumbai,Maharashtra
+M066,Merchant_66,Food Delivery,Mumbai,Maharashtra
+M067,Merchant_67,Education,Bangalore,Karnataka
+M068,Merchant_68,Grocery,Bangalore,Karnataka
+M069,Merchant_69,Education,Hyderabad,Telangana
+M070,Merchant_70,Entertainment,Hyderabad,Telangana
+M071,Merchant_71,Travel,Kolkata,West Bengal
+M072,Merchant_72,Entertainment,Mumbai,Maharashtra
+M073,Merchant_73,Electronics,Kolkata,West Bengal
+M074,Merchant_74,Education,Ahmedabad,Gujarat
+M075,Merchant_75,Travel,Bangalore,Karnataka
+M076,Merchant_76,Food Delivery,Mumbai,Maharashtra
+M077,Merchant_77,ECommerce,Pune,Maharashtra
+M078,Merchant_78,Travel,Mumbai,Maharashtra
+M079,Merchant_79,Food Delivery,Chennai,Tamil Nadu
+M080,Merchant_80,Travel,Chennai,Tamil Nadu
+M081,Merchant_81,ECommerce,Bangalore,Karnataka
+M082,Merchant_82,Food Delivery,Pune,Maharashtra
+M083,Merchant_83,Entertainment,Mumbai,Maharashtra
+M084,Merchant_84,Travel,Ahmedabad,Gujarat
+M085,Merchant_85,Education,Hyderabad,Telangana
+M086,Merchant_86,Education,Mumbai,Maharashtra
+M087,Merchant_87,Travel,Kolkata,West Bengal
+M088,Merchant_88,Food Delivery,Bangalore,Karnataka
+M089,Merchant_89,Electronics,Kolkata,West Bengal
+M090,Merchant_90,Healthcare,Kolkata,West Bengal
+M091,Merchant_91,ECommerce,Ahmedabad,Gujarat
+M092,Merchant_92,ECommerce,Bangalore,Karnataka
+M093,Merchant_93,Electronics,Kolkata,West Bengal
+M094,Merchant_94,Travel,Bangalore,Karnataka
+M095,Merchant_95,Travel,Mumbai,Maharashtra
+M096,Merchant_96,Grocery,Ahmedabad,Gujarat
+M097,Merchant_97,Grocery,Kolkata,West Bengal
+M098,Merchant_98,Education,Delhi,Delhi
+M099,Merchant_99,Food Delivery,Mumbai,Maharashtra
+M100,Merchant_100,Food Delivery,Ahmedabad,Gujarat

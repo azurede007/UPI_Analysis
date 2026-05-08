@@ -1,0 +1,100 @@
+{"fraud_id": "F0001", "txn_id": "TXN00891", "fraud_type": "Multiple Failed Attempts", "risk_score": 65, "fraud_status": "HIGH", "event_time": "2026-05-09 02:37:45"}
+{"fraud_id": "F0002", "txn_id": "TXN00984", "fraud_type": "High Value Transaction", "risk_score": 84, "fraud_status": "HIGH", "event_time": "2026-05-08 08:31:01"}
+{"fraud_id": "F0003", "txn_id": "TXN00108", "fraud_type": "High Value Transaction", "risk_score": 67, "fraud_status": "HIGH", "event_time": "2026-05-08 23:23:55"}
+{"fraud_id": "F0004", "txn_id": "TXN00610", "fraud_type": "High Value Transaction", "risk_score": 76, "fraud_status": "MEDIUM", "event_time": "2026-05-08 14:49:41"}
+{"fraud_id": "F0005", "txn_id": "TXN00114", "fraud_type": "Location Mismatch", "risk_score": 64, "fraud_status": "HIGH", "event_time": "2026-05-09 07:55:59"}
+{"fraud_id": "F0006", "txn_id": "TXN00351", "fraud_type": "Location Mismatch", "risk_score": 77, "fraud_status": "MEDIUM", "event_time": "2026-05-08 18:36:40"}
+{"fraud_id": "F0007", "txn_id": "TXN00023", "fraud_type": "Suspicious Device", "risk_score": 76, "fraud_status": "LOW", "event_time": "2026-05-09 05:37:12"}
+{"fraud_id": "F0008", "txn_id": "TXN00137", "fraud_type": "Multiple Failed Attempts", "risk_score": 77, "fraud_status": "LOW", "event_time": "2026-05-08 18:00:02"}
+{"fraud_id": "F0009", "txn_id": "TXN00675", "fraud_type": "Location Mismatch", "risk_score": 84, "fraud_status": "MEDIUM", "event_time": "2026-05-09 03:38:56"}
+{"fraud_id": "F0010", "txn_id": "TXN00047", "fraud_type": "Multiple Failed Attempts", "risk_score": 76, "fraud_status": "MEDIUM", "event_time": "2026-05-08 18:52:12"}
+{"fraud_id": "F0011", "txn_id": "TXN00437", "fraud_type": "High Value Transaction", "risk_score": 88, "fraud_status": "LOW", "event_time": "2026-05-09 02:35:49"}
+{"fraud_id": "F0012", "txn_id": "TXN00438", "fraud_type": "Location Mismatch", "risk_score": 72, "fraud_status": "HIGH", "event_time": "2026-05-08 13:43:38"}
+{"fraud_id": "F0013", "txn_id": "TXN00814", "fraud_type": "Location Mismatch", "risk_score": 71, "fraud_status": "HIGH", "event_time": "2026-05-09 04:19:00"}
+{"fraud_id": "F0014", "txn_id": "TXN00272", "fraud_type": "Location Mismatch", "risk_score": 66, "fraud_status": "LOW", "event_time": "2026-05-08 15:57:07"}
+{"fraud_id": "F0015", "txn_id": "TXN00564", "fraud_type": "Location Mismatch", "risk_score": 73, "fraud_status": "HIGH", "event_time": "2026-05-09 01:22:53"}
+{"fraud_id": "F0016", "txn_id": "TXN00215", "fraud_type": "Multiple Failed Attempts", "risk_score": 88, "fraud_status": "HIGH", "event_time": "2026-05-08 18:32:47"}
+{"fraud_id": "F0017", "txn_id": "TXN00631", "fraud_type": "Suspicious Device", "risk_score": 66, "fraud_status": "LOW", "event_time": "2026-05-09 00:07:53"}
+{"fraud_id": "F0018", "txn_id": "TXN00295", "fraud_type": "Multiple Failed Attempts", "risk_score": 64, "fraud_status": "HIGH", "event_time": "2026-05-08 20:32:23"}
+{"fraud_id": "F0019", "txn_id": "TXN00246", "fraud_type": "Suspicious Device", "risk_score": 88, "fraud_status": "LOW", "event_time": "2026-05-08 18:09:29"}
+{"fraud_id": "F0020", "txn_id": "TXN00747", "fraud_type": "Location Mismatch", "risk_score": 69, "fraud_status": "HIGH", "event_time": "2026-05-08 21:33:19"}
+{"fraud_id": "F0021", "txn_id": "TXN00436", "fraud_type": "Multiple Failed Attempts", "risk_score": 62, "fraud_status": "HIGH", "event_time": "2026-05-09 03:04:22"}
+{"fraud_id": "F0022", "txn_id": "TXN00456", "fraud_type": "Location Mismatch", "risk_score": 77, "fraud_status": "LOW", "event_time": "2026-05-08 19:34:48"}
+{"fraud_id": "F0023", "txn_id": "TXN00955", "fraud_type": "Suspicious Device", "risk_score": 85, "fraud_status": "HIGH", "event_time": "2026-05-08 19:12:54"}
+{"fraud_id": "F0024", "txn_id": "TXN00110", "fraud_type": "Multiple Failed Attempts", "risk_score": 92, "fraud_status": "HIGH", "event_time": "2026-05-08 11:56:24"}
+{"fraud_id": "F0025", "txn_id": "TXN00051", "fraud_type": "Location Mismatch", "risk_score": 90, "fraud_status": "MEDIUM", "event_time": "2026-05-08 22:03:24"}
+{"fraud_id": "F0026", "txn_id": "TXN00756", "fraud_type": "Location Mismatch", "risk_score": 64, "fraud_status": "HIGH", "event_time": "2026-05-08 15:14:37"}
+{"fraud_id": "F0027", "txn_id": "TXN00345", "fraud_type": "High Value Transaction", "risk_score": 60, "fraud_status": "MEDIUM", "event_time": "2026-05-08 23:49:33"}
+{"fraud_id": "F0028", "txn_id": "TXN00912", "fraud_type": "Location Mismatch", "risk_score": 67, "fraud_status": "HIGH", "event_time": "2026-05-08 18:34:34"}
+{"fraud_id": "F0029", "txn_id": "TXN00527", "fraud_type": "Suspicious Device", "risk_score": 81, "fraud_status": "HIGH", "event_time": "2026-05-08 20:04:09"}
+{"fraud_id": "F0030", "txn_id": "TXN00611", "fraud_type": "Suspicious Device", "risk_score": 85, "fraud_status": "LOW", "event_time": "2026-05-08 20:18:13"}
+{"fraud_id": "F0031", "txn_id": "TXN00901", "fraud_type": "Multiple Failed Attempts", "risk_score": 83, "fraud_status": "HIGH", "event_time": "2026-05-08 11:11:35"}
+{"fraud_id": "F0032", "txn_id": "TXN00519", "fraud_type": "Suspicious Device", "risk_score": 65, "fraud_status": "MEDIUM", "event_time": "2026-05-08 23:51:07"}
+{"fraud_id": "F0033", "txn_id": "TXN00669", "fraud_type": "Suspicious Device", "risk_score": 72, "fraud_status": "LOW", "event_time": "2026-05-09 07:19:55"}
+{"fraud_id": "F0034", "txn_id": "TXN00721", "fraud_type": "Multiple Failed Attempts", "risk_score": 84, "fraud_status": "HIGH", "event_time": "2026-05-09 02:46:48"}
+{"fraud_id": "F0035", "txn_id": "TXN00783", "fraud_type": "High Value Transaction", "risk_score": 79, "fraud_status": "HIGH", "event_time": "2026-05-08 14:46:11"}
+{"fraud_id": "F0036", "txn_id": "TXN00572", "fraud_type": "Location Mismatch", "risk_score": 66, "fraud_status": "HIGH", "event_time": "2026-05-08 08:47:52"}
+{"fraud_id": "F0037", "txn_id": "TXN00087", "fraud_type": "Suspicious Device", "risk_score": 91, "fraud_status": "LOW", "event_time": "2026-05-09 03:49:24"}
+{"fraud_id": "F0038", "txn_id": "TXN00130", "fraud_type": "Location Mismatch", "risk_score": 72, "fraud_status": "LOW", "event_time": "2026-05-08 20:21:40"}
+{"fraud_id": "F0039", "txn_id": "TXN00513", "fraud_type": "Multiple Failed Attempts", "risk_score": 72, "fraud_status": "LOW", "event_time": "2026-05-08 11:31:15"}
+{"fraud_id": "F0040", "txn_id": "TXN00125", "fraud_type": "High Value Transaction", "risk_score": 91, "fraud_status": "MEDIUM", "event_time": "2026-05-08 09:32:24"}
+{"fraud_id": "F0041", "txn_id": "TXN00268", "fraud_type": "Multiple Failed Attempts", "risk_score": 94, "fraud_status": "HIGH", "event_time": "2026-05-08 12:18:15"}
+{"fraud_id": "F0042", "txn_id": "TXN00942", "fraud_type": "Suspicious Device", "risk_score": 91, "fraud_status": "HIGH", "event_time": "2026-05-09 00:57:19"}
+{"fraud_id": "F0043", "txn_id": "TXN00841", "fraud_type": "Location Mismatch", "risk_score": 61, "fraud_status": "LOW", "event_time": "2026-05-08 12:44:48"}
+{"fraud_id": "F0044", "txn_id": "TXN00702", "fraud_type": "Suspicious Device", "risk_score": 63, "fraud_status": "MEDIUM", "event_time": "2026-05-09 05:58:18"}
+{"fraud_id": "F0045", "txn_id": "TXN00583", "fraud_type": "Multiple Failed Attempts", "risk_score": 85, "fraud_status": "LOW", "event_time": "2026-05-09 02:37:50"}
+{"fraud_id": "F0046", "txn_id": "TXN00932", "fraud_type": "High Value Transaction", "risk_score": 93, "fraud_status": "MEDIUM", "event_time": "2026-05-09 07:59:34"}
+{"fraud_id": "F0047", "txn_id": "TXN00959", "fraud_type": "High Value Transaction", "risk_score": 97, "fraud_status": "LOW", "event_time": "2026-05-08 15:29:16"}
+{"fraud_id": "F0048", "txn_id": "TXN00435", "fraud_type": "Multiple Failed Attempts", "risk_score": 62, "fraud_status": "HIGH", "event_time": "2026-05-08 17:47:07"}
+{"fraud_id": "F0049", "txn_id": "TXN00284", "fraud_type": "High Value Transaction", "risk_score": 91, "fraud_status": "HIGH", "event_time": "2026-05-08 22:18:38"}
+{"fraud_id": "F0050", "txn_id": "TXN00133", "fraud_type": "Multiple Failed Attempts", "risk_score": 90, "fraud_status": "HIGH", "event_time": "2026-05-09 05:55:57"}
+{"fraud_id": "F0051", "txn_id": "TXN00840", "fraud_type": "Multiple Failed Attempts", "risk_score": 75, "fraud_status": "HIGH", "event_time": "2026-05-09 03:57:27"}
+{"fraud_id": "F0052", "txn_id": "TXN00270", "fraud_type": "High Value Transaction", "risk_score": 60, "fraud_status": "LOW", "event_time": "2026-05-08 12:51:47"}
+{"fraud_id": "F0053", "txn_id": "TXN00684", "fraud_type": "Multiple Failed Attempts", "risk_score": 79, "fraud_status": "LOW", "event_time": "2026-05-09 03:49:09"}
+{"fraud_id": "F0054", "txn_id": "TXN00408", "fraud_type": "Location Mismatch", "risk_score": 99, "fraud_status": "LOW", "event_time": "2026-05-09 07:37:34"}
+{"fraud_id": "F0055", "txn_id": "TXN00397", "fraud_type": "Multiple Failed Attempts", "risk_score": 66, "fraud_status": "LOW", "event_time": "2026-05-08 13:19:28"}
+{"fraud_id": "F0056", "txn_id": "TXN00192", "fraud_type": "Location Mismatch", "risk_score": 98, "fraud_status": "HIGH", "event_time": "2026-05-09 07:29:22"}
+{"fraud_id": "F0057", "txn_id": "TXN00598", "fraud_type": "High Value Transaction", "risk_score": 64, "fraud_status": "LOW", "event_time": "2026-05-09 02:03:10"}
+{"fraud_id": "F0058", "txn_id": "TXN00500", "fraud_type": "Location Mismatch", "risk_score": 81, "fraud_status": "HIGH", "event_time": "2026-05-08 09:12:59"}
+{"fraud_id": "F0059", "txn_id": "TXN00973", "fraud_type": "Location Mismatch", "risk_score": 80, "fraud_status": "LOW", "event_time": "2026-05-08 09:22:43"}
+{"fraud_id": "F0060", "txn_id": "TXN00950", "fraud_type": "High Value Transaction", "risk_score": 80, "fraud_status": "LOW", "event_time": "2026-05-08 22:35:35"}
+{"fraud_id": "F0061", "txn_id": "TXN00453", "fraud_type": "Multiple Failed Attempts", "risk_score": 97, "fraud_status": "LOW", "event_time": "2026-05-09 05:08:42"}
+{"fraud_id": "F0062", "txn_id": "TXN00004", "fraud_type": "Suspicious Device", "risk_score": 64, "fraud_status": "LOW", "event_time": "2026-05-08 08:22:10"}
+{"fraud_id": "F0063", "txn_id": "TXN00178", "fraud_type": "Suspicious Device", "risk_score": 69, "fraud_status": "MEDIUM", "event_time": "2026-05-08 20:19:34"}
+{"fraud_id": "F0064", "txn_id": "TXN00387", "fraud_type": "High Value Transaction", "risk_score": 83, "fraud_status": "HIGH", "event_time": "2026-05-09 02:02:01"}
+{"fraud_id": "F0065", "txn_id": "TXN00694", "fraud_type": "High Value Transaction", "risk_score": 88, "fraud_status": "LOW", "event_time": "2026-05-09 04:31:12"}
+{"fraud_id": "F0066", "txn_id": "TXN00101", "fraud_type": "Multiple Failed Attempts", "risk_score": 68, "fraud_status": "LOW", "event_time": "2026-05-09 05:45:01"}
+{"fraud_id": "F0067", "txn_id": "TXN00979", "fraud_type": "Location Mismatch", "risk_score": 70, "fraud_status": "LOW", "event_time": "2026-05-08 20:04:12"}
+{"fraud_id": "F0068", "txn_id": "TXN00049", "fraud_type": "Location Mismatch", "risk_score": 65, "fraud_status": "LOW", "event_time": "2026-05-08 19:42:56"}
+{"fraud_id": "F0069", "txn_id": "TXN00496", "fraud_type": "Multiple Failed Attempts", "risk_score": 71, "fraud_status": "LOW", "event_time": "2026-05-08 17:05:07"}
+{"fraud_id": "F0070", "txn_id": "TXN00815", "fraud_type": "Suspicious Device", "risk_score": 86, "fraud_status": "HIGH", "event_time": "2026-05-09 06:27:42"}
+{"fraud_id": "F0071", "txn_id": "TXN00699", "fraud_type": "Location Mismatch", "risk_score": 68, "fraud_status": "LOW", "event_time": "2026-05-09 03:01:52"}
+{"fraud_id": "F0072", "txn_id": "TXN00710", "fraud_type": "High Value Transaction", "risk_score": 77, "fraud_status": "HIGH", "event_time": "2026-05-08 22:28:15"}
+{"fraud_id": "F0073", "txn_id": "TXN00058", "fraud_type": "Location Mismatch", "risk_score": 86, "fraud_status": "LOW", "event_time": "2026-05-09 07:04:26"}
+{"fraud_id": "F0074", "txn_id": "TXN00490", "fraud_type": "High Value Transaction", "risk_score": 99, "fraud_status": "HIGH", "event_time": "2026-05-08 20:59:29"}
+{"fraud_id": "F0075", "txn_id": "TXN00132", "fraud_type": "Multiple Failed Attempts", "risk_score": 98, "fraud_status": "LOW", "event_time": "2026-05-09 07:29:59"}
+{"fraud_id": "F0076", "txn_id": "TXN00127", "fraud_type": "Location Mismatch", "risk_score": 99, "fraud_status": "LOW", "event_time": "2026-05-08 12:11:36"}
+{"fraud_id": "F0077", "txn_id": "TXN00822", "fraud_type": "Suspicious Device", "risk_score": 82, "fraud_status": "MEDIUM", "event_time": "2026-05-09 04:01:40"}
+{"fraud_id": "F0078", "txn_id": "TXN00707", "fraud_type": "Multiple Failed Attempts", "risk_score": 95, "fraud_status": "LOW", "event_time": "2026-05-09 05:02:37"}
+{"fraud_id": "F0079", "txn_id": "TXN00787", "fraud_type": "High Value Transaction", "risk_score": 67, "fraud_status": "HIGH", "event_time": "2026-05-08 10:35:56"}
+{"fraud_id": "F0080", "txn_id": "TXN00750", "fraud_type": "Multiple Failed Attempts", "risk_score": 99, "fraud_status": "MEDIUM", "event_time": "2026-05-08 13:26:41"}
+{"fraud_id": "F0081", "txn_id": "TXN00842", "fraud_type": "High Value Transaction", "risk_score": 89, "fraud_status": "HIGH", "event_time": "2026-05-09 07:44:51"}
+{"fraud_id": "F0082", "txn_id": "TXN00698", "fraud_type": "High Value Transaction", "risk_score": 77, "fraud_status": "LOW", "event_time": "2026-05-08 10:30:23"}
+{"fraud_id": "F0083", "txn_id": "TXN00549", "fraud_type": "High Value Transaction", "risk_score": 67, "fraud_status": "LOW", "event_time": "2026-05-08 08:55:36"}
+{"fraud_id": "F0084", "txn_id": "TXN00720", "fraud_type": "Location Mismatch", "risk_score": 91, "fraud_status": "LOW", "event_time": "2026-05-09 07:54:59"}
+{"fraud_id": "F0085", "txn_id": "TXN00474", "fraud_type": "High Value Transaction", "risk_score": 62, "fraud_status": "LOW", "event_time": "2026-05-09 03:47:38"}
+{"fraud_id": "F0086", "txn_id": "TXN00865", "fraud_type": "Suspicious Device", "risk_score": 78, "fraud_status": "LOW", "event_time": "2026-05-08 19:22:24"}
+{"fraud_id": "F0087", "txn_id": "TXN00585", "fraud_type": "Location Mismatch", "risk_score": 76, "fraud_status": "MEDIUM", "event_time": "2026-05-08 09:26:10"}
+{"fraud_id": "F0088", "txn_id": "TXN00460", "fraud_type": "Location Mismatch", "risk_score": 62, "fraud_status": "LOW", "event_time": "2026-05-08 19:04:34"}
+{"fraud_id": "F0089", "txn_id": "TXN00516", "fraud_type": "Multiple Failed Attempts", "risk_score": 94, "fraud_status": "LOW", "event_time": "2026-05-08 18:52:51"}
+{"fraud_id": "F0090", "txn_id": "TXN00775", "fraud_type": "High Value Transaction", "risk_score": 61, "fraud_status": "MEDIUM", "event_time": "2026-05-09 01:54:38"}
+{"fraud_id": "F0091", "txn_id": "TXN00810", "fraud_type": "Multiple Failed Attempts", "risk_score": 64, "fraud_status": "LOW", "event_time": "2026-05-09 01:40:18"}
+{"fraud_id": "F0092", "txn_id": "TXN00085", "fraud_type": "Location Mismatch", "risk_score": 97, "fraud_status": "HIGH", "event_time": "2026-05-09 01:48:59"}
+{"fraud_id": "F0093", "txn_id": "TXN00581", "fraud_type": "Suspicious Device", "risk_score": 86, "fraud_status": "LOW", "event_time": "2026-05-09 02:04:18"}
+{"fraud_id": "F0094", "txn_id": "TXN00494", "fraud_type": "Suspicious Device", "risk_score": 74, "fraud_status": "LOW", "event_time": "2026-05-08 20:03:26"}
+{"fraud_id": "F0095", "txn_id": "TXN00306", "fraud_type": "Suspicious Device", "risk_score": 74, "fraud_status": "LOW", "event_time": "2026-05-09 00:58:32"}
+{"fraud_id": "F0096", "txn_id": "TXN00682", "fraud_type": "High Value Transaction", "risk_score": 86, "fraud_status": "LOW", "event_time": "2026-05-08 22:07:48"}
+{"fraud_id": "F0097", "txn_id": "TXN00064", "fraud_type": "Location Mismatch", "risk_score": 74, "fraud_status": "LOW", "event_time": "2026-05-08 18:28:20"}
+{"fraud_id": "F0098", "txn_id": "TXN00153", "fraud_type": "Location Mismatch", "risk_score": 97, "fraud_status": "MEDIUM", "event_time": "2026-05-09 03:10:13"}
+{"fraud_id": "F0099", "txn_id": "TXN00499", "fraud_type": "Multiple Failed Attempts", "risk_score": 87, "fraud_status": "LOW", "event_time": "2026-05-09 01:27:27"}
+{"fraud_id": "F0100", "txn_id": "TXN00619", "fraud_type": "High Value Transaction", "risk_score": 99, "fraud_status": "MEDIUM", "event_time": "2026-05-08 18:52:59"}

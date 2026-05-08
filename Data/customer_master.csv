@@ -1,0 +1,101 @@
+user_id,customer_name,age,gender,city,state,kyc_status
+U001,Customer_1,54,Male,Chennai,Tamil Nadu,VERIFIED
+U002,Customer_2,30,Female,Mumbai,Maharashtra,PENDING
+U003,Customer_3,33,Female,Ahmedabad,Gujarat,VERIFIED
+U004,Customer_4,44,Male,Hyderabad,Telangana,PENDING
+U005,Customer_5,49,Female,Delhi,Delhi,PENDING
+U006,Customer_6,29,Male,Ahmedabad,Gujarat,PENDING
+U007,Customer_7,23,Male,Mumbai,Maharashtra,PENDING
+U008,Customer_8,23,Female,Chennai,Tamil Nadu,VERIFIED
+U009,Customer_9,52,Male,Chennai,Tamil Nadu,VERIFIED
+U010,Customer_10,58,Male,Bangalore,Karnataka,VERIFIED
+U011,Customer_11,27,Male,Kolkata,West Bengal,VERIFIED
+U012,Customer_12,46,Female,Bangalore,Karnataka,PENDING
+U013,Customer_13,40,Male,Mumbai,Maharashtra,PENDING
+U014,Customer_14,28,Female,Kolkata,West Bengal,PENDING
+U015,Customer_15,24,Male,Pune,Maharashtra,PENDING
+U016,Customer_16,24,Male,Bangalore,Karnataka,PENDING
+U017,Customer_17,42,Male,Hyderabad,Telangana,VERIFIED
+U018,Customer_18,38,Male,Pune,Maharashtra,PENDING
+U019,Customer_19,59,Male,Delhi,Delhi,PENDING
+U020,Customer_20,28,Female,Bangalore,Karnataka,VERIFIED
+U021,Customer_21,55,Male,Bangalore,Karnataka,PENDING
+U022,Customer_22,58,Male,Delhi,Delhi,PENDING
+U023,Customer_23,60,Female,Mumbai,Maharashtra,PENDING
+U024,Customer_24,23,Male,Delhi,Delhi,PENDING
+U025,Customer_25,22,Male,Delhi,Delhi,PENDING
+U026,Customer_26,60,Female,Hyderabad,Telangana,VERIFIED
+U027,Customer_27,55,Female,Ahmedabad,Gujarat,VERIFIED
+U028,Customer_28,24,Male,Bangalore,Karnataka,VERIFIED
+U029,Customer_29,57,Male,Pune,Maharashtra,PENDING
+U030,Customer_30,22,Female,Hyderabad,Telangana,PENDING
+U031,Customer_31,42,Male,Chennai,Tamil Nadu,VERIFIED
+U032,Customer_32,42,Female,Bangalore,Karnataka,VERIFIED
+U033,Customer_33,30,Male,Mumbai,Maharashtra,PENDING
+U034,Customer_34,31,Female,Chennai,Tamil Nadu,PENDING
+U035,Customer_35,37,Male,Mumbai,Maharashtra,VERIFIED
+U036,Customer_36,22,Female,Kolkata,West Bengal,VERIFIED
+U037,Customer_37,49,Female,Mumbai,Maharashtra,PENDING
+U038,Customer_38,34,Male,Mumbai,Maharashtra,VERIFIED
+U039,Customer_39,41,Female,Kolkata,West Bengal,VERIFIED
+U040,Customer_40,42,Female,Delhi,Delhi,PENDING
+U041,Customer_41,27,Female,Chennai,Tamil Nadu,VERIFIED
+U042,Customer_42,22,Male,Delhi,Delhi,PENDING
+U043,Customer_43,40,Female,Pune,Maharashtra,VERIFIED
+U044,Customer_44,56,Male,Kolkata,West Bengal,PENDING
+U045,Customer_45,47,Male,Chennai,Tamil Nadu,VERIFIED
+U046,Customer_46,47,Male,Pune,Maharashtra,PENDING
+U047,Customer_47,27,Female,Pune,Maharashtra,PENDING
+U048,Customer_48,40,Female,Kolkata,West Bengal,PENDING
+U049,Customer_49,32,Female,Hyderabad,Telangana,PENDING
+U050,Customer_50,59,Female,Hyderabad,Telangana,PENDING
+U051,Customer_51,39,Female,Chennai,Tamil Nadu,VERIFIED
+U052,Customer_52,57,Female,Kolkata,West Bengal,PENDING
+U053,Customer_53,48,Male,Ahmedabad,Gujarat,PENDING
+U054,Customer_54,25,Female,Hyderabad,Telangana,PENDING
+U055,Customer_55,35,Female,Bangalore,Karnataka,VERIFIED
+U056,Customer_56,29,Male,Mumbai,Maharashtra,VERIFIED
+U057,Customer_57,50,Male,Mumbai,Maharashtra,PENDING
+U058,Customer_58,60,Male,Kolkata,West Bengal,PENDING
+U059,Customer_59,45,Male,Ahmedabad,Gujarat,VERIFIED
+U060,Customer_60,26,Female,Chennai,Tamil Nadu,VERIFIED
+U061,Customer_61,53,Female,Hyderabad,Telangana,VERIFIED
+U062,Customer_62,27,Female,Mumbai,Maharashtra,VERIFIED
+U063,Customer_63,53,Female,Ahmedabad,Gujarat,PENDING
+U064,Customer_64,55,Female,Kolkata,West Bengal,VERIFIED
+U065,Customer_65,48,Female,Ahmedabad,Gujarat,VERIFIED
+U066,Customer_66,53,Female,Delhi,Delhi,VERIFIED
+U067,Customer_67,48,Male,Delhi,Delhi,PENDING
+U068,Customer_68,37,Female,Mumbai,Maharashtra,PENDING
+U069,Customer_69,28,Male,Bangalore,Karnataka,VERIFIED
+U070,Customer_70,29,Male,Kolkata,West Bengal,VERIFIED
+U071,Customer_71,46,Female,Kolkata,West Bengal,PENDING
+U072,Customer_72,23,Male,Kolkata,West Bengal,PENDING
+U073,Customer_73,57,Male,Kolkata,West Bengal,PENDING
+U074,Customer_74,20,Female,Ahmedabad,Gujarat,PENDING
+U075,Customer_75,46,Male,Kolkata,West Bengal,PENDING
+U076,Customer_76,37,Female,Mumbai,Maharashtra,PENDING
+U077,Customer_77,44,Female,Chennai,Tamil Nadu,PENDING
+U078,Customer_78,49,Male,Hyderabad,Telangana,VERIFIED
+U079,Customer_79,57,Male,Kolkata,West Bengal,VERIFIED
+U080,Customer_80,28,Female,Kolkata,West Bengal,VERIFIED
+U081,Customer_81,36,Female,Chennai,Tamil Nadu,PENDING
+U082,Customer_82,49,Female,Mumbai,Maharashtra,PENDING
+U083,Customer_83,37,Female,Kolkata,West Bengal,PENDING
+U084,Customer_84,50,Male,Bangalore,Karnataka,VERIFIED
+U085,Customer_85,34,Male,Pune,Maharashtra,VERIFIED
+U086,Customer_86,35,Male,Chennai,Tamil Nadu,VERIFIED
+U087,Customer_87,35,Male,Hyderabad,Telangana,PENDING
+U088,Customer_88,56,Male,Bangalore,Karnataka,PENDING
+U089,Customer_89,43,Male,Delhi,Delhi,VERIFIED
+U090,Customer_90,39,Male,Hyderabad,Telangana,VERIFIED
+U091,Customer_91,56,Female,Delhi,Delhi,PENDING
+U092,Customer_92,24,Male,Mumbai,Maharashtra,VERIFIED
+U093,Customer_93,58,Male,Delhi,Delhi,VERIFIED
+U094,Customer_94,54,Female,Pune,Maharashtra,PENDING
+U095,Customer_95,52,Female,Bangalore,Karnataka,VERIFIED
+U096,Customer_96,51,Male,Kolkata,West Bengal,PENDING
+U097,Customer_97,60,Female,Pune,Maharashtra,VERIFIED
+U098,Customer_98,31,Female,Kolkata,West Bengal,PENDING
+U099,Customer_99,47,Female,Ahmedabad,Gujarat,PENDING
+U100,Customer_100,25,Female,Mumbai,Maharashtra,PENDING
