@@ -3,7 +3,7 @@
 -- ============================================
 
 -- 1. UPI TRANSACTIONS TABLE
-CREATE TABLE upi_transactions (
+CREATE TABLE upi_catalog.upi_database.bronze_upi_transactions (
     txn_id STRING,
     user_id STRING,
     merchant_id STRING,
@@ -18,7 +18,7 @@ USING DELTA;
 -- ============================================
 
 -- 2. BANK SETTLEMENT TABLE
-CREATE TABLE bank_settlement (
+CREATE TABLE upi_catalog.upi_database.bronze_bank_settlement (
     settlement_id STRING,
     txn_id STRING,
     bank_id STRING,
@@ -31,7 +31,7 @@ USING DELTA;
 -- ============================================
 
 -- 3. MERCHANT MASTER TABLE
-CREATE TABLE merchant_master (
+CREATE TABLE upi_catalog.upi_database.bronze_merchant_master (
     merchant_id STRING,
     merchant_name STRING,
     merchant_category STRING,
@@ -43,7 +43,7 @@ USING DELTA;
 -- ============================================
 
 -- 4. CUSTOMER MASTER TABLE
-CREATE TABLE customer_master (
+CREATE TABLE upi_catalog.upi_database.bronze_customer_master (
     user_id STRING,
     customer_name STRING,
     age INT,
@@ -57,11 +57,11 @@ USING DELTA;
 -- ============================================
 
 -- 5. FRAUD LOGS TABLE
-CREATE TABLE fraud_logs (
+CREATE TABLE upi_catalog.upi_database.bronze_fraud_logs (
     fraud_id STRING,
     txn_id STRING,
     fraud_type STRING,
-    risk_score INT,
+    risk_score BIGINT,
     fraud_status STRING,
     event_time TIMESTAMP
 )
@@ -70,7 +70,7 @@ USING DELTA;
 -- ============================================
 
 -- 6. DEVICE LOGS TABLE
-CREATE TABLE device_logs (
+CREATE TABLE upi_catalog.upi_database.bronze_device_logs (
     log_id STRING,
     user_id STRING,
     device_type STRING,

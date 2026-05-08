@@ -12,29 +12,33 @@ spark = SparkSession.builder \
 # LOAD DELTA TABLES INTO DATAFRAMES
 # ============================================
 
-upi_txn_df = spark.read.format("delta") \
-    .load("/mnt/upi/bronze/upi_transactions")
+upi_txn_df = spark.read.format("csv").option("header", "true").option("inferSchema", "true") \
+    .load("/Volumes/upi_catalog/upi_database/upi_rawdata/upi_transactions_20260508.csv")
 
-bank_settlement_df = spark.read.format("delta") \
-    .load("/mnt/upi/bronze/bank_settlement")
+bank_settlement_df = spark.read.format("csv").option("header", "true").option("inferSchema", "true") \
+    .load("/Volumes/upi_catalog/upi_database/upi_rawdata/bank_settlement_20260508.csv")
 
-merchant_df = spark.read.format("delta") \
-    .load("/mnt/upi/master/merchant_master")
+merchant_df = spark.read.format("csv").option("header", "true").option("inferSchema", "true") \
+    .load("/Volumes/upi_catalog/upi_database/upi_rawdata/merchant_master.csv")
 
-customer_df = spark.read.format("delta") \
-    .load("/mnt/upi/master/customer_master")
+customer_df = spark.read.format("csv").option("header", "true").option("inferSchema", "true") \
+    .load("/Volumes/upi_catalog/upi_database/upi_rawdata/customer_master.csv")
 
-fraud_df = spark.read.format("delta") \
-    .load("/mnt/upi/bronze/fraud_logs")
+fraud_df = spark.read.format("json") \
+    .load("/Volumes/upi_catalog/upi_database/upi_rawdata/fraud_logs.json")
 
-device_df = spark.read.format("delta") \
-    .load("/mnt/upi/bronze/device_logs")
+device_df = spark.read.format("csv").option("header", "true").option("inferSchema", "true") \
+    .load("/Volumes/upi_catalog/upi_database/upi_rawdata/device_logs.csv")
 
-# ============================================
-# DISPLAY DATA
-# ============================================
 
-upi_txn_df.show(5)
+    # ============================================
+    # WRITE DATAFRAMES INTO BRONZE TABLES
+    # ============================================
+
+upi_txn_df.write.format("delta").saveAsTable("upi_catalog.upi_database.bronze_upi_transactions")
+
+
+
 
 # ============================================
 # TRANSFORMATIONS
