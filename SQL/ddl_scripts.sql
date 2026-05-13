@@ -57,11 +57,12 @@ USING DELTA;
 -- ============================================
 
 -- 5. FRAUD LOGS TABLE
+Drop table if exists upi_catalog.upi_database.bronze_fraud_logs;
 CREATE TABLE upi_catalog.upi_database.bronze_fraud_logs (
     fraud_id STRING,
     txn_id STRING,
     fraud_type STRING,
-    risk_score BIGINT,
+    risk_score INT,
     fraud_status STRING,
     event_time TIMESTAMP
 )
